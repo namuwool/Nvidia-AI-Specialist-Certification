@@ -196,4 +196,11 @@ result
 
 ![06a8f4de-36c2-431c-842e-90569711f48e](https://github.com/user-attachments/assets/f75f30ef-de5d-42b5-a93e-678a647cf977)
 
+• P-Curve
+
+![626e43d6-956d-41ed-bbbc-b74e538a88be](https://github.com/user-attachments/assets/581f27ff-12c6-446c-947d-fe04c33e5d68)
+
+• Result
+
+![4d6a1b01-32e3-492d-93d4-c37fc2a4ddfd](https://github.com/user-attachments/assets/dd9731ac-254d-4f51-90a6-952e5eaeeddb)
 
