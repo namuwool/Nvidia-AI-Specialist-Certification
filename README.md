@@ -106,4 +106,16 @@ Check extracted labeling
 ![image (14)](https://github.com/user-attachments/assets/54e9379d-8314-4706-b2c4-d8d100c68b0c)
 
 
+Creates `images` and `labels` directories inside `val_path`.
 
+With `exist_ok=True`, no error is raised if the directories already exist.
+
+Fetches the list of image files from `train_path/images`.
+
+Uses `train_test_split` to divide the data into Validation data at a specified ratio (`split_ratio`).
+
+**Image file copying**: Copies the selected Validation image files to `val_path/images`.
+
+**Label file copying**: Copies the corresponding `.txt` label files to `val_path/labels`.
+
+Only copies label files if they exist (`if os.path.exists`).
