@@ -52,7 +52,7 @@ Use Adobe Express to resize the video to 640 x 640.
 
 https://new.express.adobe.com/tools/resize-video?url=%2Fkr%2Fexpress%2Ffeature%2Fvideo%2Fresize&placement=columns-1&locale=ko-KR&contentRegion=kr&%24web_only=true&_branch_match_id=1383263338796486643&_branch_referrer=H4sIAAAAAAAAAw2JsQrCMBgGn8ZsbVFwUAgOgiguWhDcJEm%2FtiFp%2FvAnteLgs5vl7uDGnGPaN43qSCNFxS5SytUCXasYa2%2BDa9A8d4%2Fb3ejL9qwPM3u52pwcF%2BATGSmV6qHyzCj1th2ouAz7hYheGUwIWRry8xRStRaejPKQjqprKwyFXHaLwVKQjsWP0YPZhuGlmZYElseRacIfzIRSeqwAAAA%3D
 
+![image](https://github.com/user-attachments/assets/6c5912e6-de3d-438d-b7fa-f093be76cdfc)
 
-![image (1)](https://github.com/user-attachments/assets/62cee802-7b8f-4f56-8dc3-49fa083fa140) 
-![image (2)](https://github.com/user-attachments/assets/7935fcfc-f4f9-41fd-a9c7-6773b446b472)
+<img src="https://github.com/user-attachments/assets/83fc166f-b2db-4931-a947-735178194483.png  width="200" height="400"/>
 
