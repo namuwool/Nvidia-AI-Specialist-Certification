@@ -65,3 +65,6 @@ https://new.express.adobe.com/tools/resize-video?url=%2Fkr%2Fexpress%2Ffeature%2
 2. **DarkLabel (labels)**
 
 • **Go to the DarkLabel.exe file**
+
+![image (3)](https://github.com/user-attachments/assets/9f0e739e-a6e7-4d65-9bf4-1f8239e4f7b5)
+
