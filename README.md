@@ -86,3 +86,8 @@ After completing the labeling, click the "GT SAVE AS" button, select a folder, a
 
 
 <p align="center"><img src="https://github.com/user-attachments/assets/620948c9-b4c0-476f-bcf2-49dbb1e887ab" height="300"/> <img src="https://github.com/user-attachments/assets/104d8659-13c8-4ec4-9d96-292a389a95f3" width="500" height="300"/>
+
+Check extracted labeling
+
+![image (11)](https://github.com/user-attachments/assets/e3ef4f91-ee92-4ce6-95c4-bca1b751a5e6)
+
