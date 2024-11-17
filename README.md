@@ -6,12 +6,14 @@ Nvidia AI Specialist Certification
 Screw Collection and Classification for Construction Site Safety
 
 
+
 Opening background information 
 ---
 <aside>
 ✅ Small screws left unattended at construction sites pose a threat to machinery and worker safety, yet they are not easy to locate instantly. Currently, magnetic screwdrivers are used to prevent screw loss, but this approach has its limitations. To address these issues, an AI-based system capable of detecting and classifying screws is needed.
 
 </aside>
+
 
 General description of the current project
 ---
@@ -20,12 +22,14 @@ General description of the current project
 
 </aside>
 
+
 Current limitations
 ---
 <aside>
 ✅ There are many types of screws, so it takes a long time to train the system to recognize various kinds of screws. Additionally, the high density of objects at construction sites can cause occlusion depending on the environment, making it difficult to detect screws.
 
 </aside>
+
 
 Video Acquisition Method
 ---
@@ -42,6 +46,7 @@ https://youtube.com/shorts/yhTtwcewjIc?si=bqMym3mMx-cj1yns
 https://youtube.com/shorts/VWcLRW8vs0U?si=X9I6Jk7PkDOSeuwt
 
 https://youtube.com/shorts/HcVqAKxXZP4?si=uQYc4MzfyEvo8hgA
+
 
 [ Project Progress ]
 ---
