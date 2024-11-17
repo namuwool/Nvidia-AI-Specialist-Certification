@@ -54,6 +54,6 @@ https://new.express.adobe.com/tools/resize-video?url=%2Fkr%2Fexpress%2Ffeature%2
 
 ![image](https://github.com/user-attachments/assets/6c5912e6-de3d-438d-b7fa-f093be76cdfc)
 
-<img src="https://github.com/user-attachments/assets/83fc166f-b2db-4931-a947-735178194483" width="250" height="400"/> <img src="https://github.com/user-attachments/assets/c5eda0d6-8e9f-4c9c-9df7-28410481d415" width="250" height="400"/> 
+<img src="https://github.com/user-attachments/assets/83fc166f-b2db-4931-a947-735178194483" width="250" height="400"/>              <img src="https://github.com/user-attachments/assets/c5eda0d6-8e9f-4c9c-9df7-28410481d415" width="250" height="400"/> 
 
 
