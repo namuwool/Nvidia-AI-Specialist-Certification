@@ -181,6 +181,11 @@ result
 <p align="center"><img src="https://github.com/user-attachments/assets/ecae5a3a-392c-4b0a-8c98-8c52aae7ce36">
 
 • Confusion Matrix
+
 ![5d52e908-ca6a-4a1a-a37a-b0ff542521f8](https://github.com/user-attachments/assets/c75bdc61-ca86-4159-bef5-55598939ed14)
+
+• F1-Curve
+
+![c5bdaf7e-482e-42d6-a317-c42cb9234d5a](https://github.com/user-attachments/assets/94a62acd-6cb1-47d9-8689-fa8b722cc730)
 
 
