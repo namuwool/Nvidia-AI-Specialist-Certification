@@ -78,4 +78,4 @@ Click on "Open Video" to select the video for training.
 Ensure that it is set to "screw," then set it to "box + Label," uncheck "labeled frames only," and proceed with labeling
 
 
-<p align="center"><img src="https://github.com/user-attachments/assets/507ab6d1-df98-48ba-96bb-0134ac8658a0"> <img src="https://github.com/user-attachments/assets/ff9bfd3a-e3e7-407f-af57-c998ddea279a"width="400" height="600"/>
+<p align="center"><img src="https://github.com/user-attachments/assets/507ab6d1-df98-48ba-96bb-0134ac8658a0"> <img src="https://github.com/user-attachments/assets/ff9bfd3a-e3e7-407f-af57-c998ddea279a"width="600" height="600"/>
