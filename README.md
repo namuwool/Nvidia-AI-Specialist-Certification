@@ -119,3 +119,8 @@ Uses `train_test_split` to divide the data into Validation data at a specified r
 **Label file copying**: Copies the corresponding `.txt` label files to `val_path/labels`.
 
 Only copies label files if they exist (`if os.path.exists`).
+
+**4. Model Learning**
+
+![image (15)](https://github.com/user-attachments/assets/c9195a2e-6253-4129-b0f6-7730c73c1ebf)
+
