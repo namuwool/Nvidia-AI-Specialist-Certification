@@ -83,7 +83,6 @@ Ensure that it is set to "screw," then set it to "box + Label," uncheck "labeled
 
 After completing the labeling, click the "GT SAVE AS" button, select a folder, and save. You can then confirm that the labels are saved in a .txt file format.
 
-![image (10)](https://github.com/user-attachments/assets/104d8659-13c8-4ec4-9d96-292a389a95f3)
 
 
 <p align="center"><img src="https://github.com/user-attachments/assets/620948c9-b4c0-476f-bcf2-49dbb1e887ab"> <img src="https://github.com/user-attachments/assets/104d8659-13c8-4ec4-9d96-292a389a95f3">
