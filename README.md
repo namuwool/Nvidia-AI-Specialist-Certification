@@ -97,3 +97,13 @@ Check extracted labeling
 
 ![image (12)](https://github.com/user-attachments/assets/fda80d63-e523-4bdc-95eb-b8db5dfdb06d)
 
+• Clone and install the yolov5 repertoire.
+
+![image (13)](https://github.com/user-attachments/assets/9c556329-55a8-48a5-be7d-94d091d5ed8d)
+
+Creating Validation Data
+
+![image (14)](https://github.com/user-attachments/assets/54e9379d-8314-4706-b2c4-d8d100c68b0c)
+
+
+
