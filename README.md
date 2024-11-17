@@ -172,3 +172,11 @@ Only copies label files if they exist (`if os.path.exists`).
     
     When enabled, it reduces I/O time (file reading/writing) during training.
 
+
+result
+---
+
+• tensor board
+
+<p align="center"><img src="https://github.com/user-attachments/assets/ecae5a3a-392c-4b0a-8c98-8c52aae7ce36">
+
