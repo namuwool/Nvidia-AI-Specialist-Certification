@@ -70,4 +70,4 @@ https://new.express.adobe.com/tools/resize-video?url=%2Fkr%2Fexpress%2Ffeature%2
 
 <p align="center"><img src="https://github.com/user-attachments/assets/4b26f9fc-6033-42a9-89e3-b291705af324">
   
-<img src="https://github.com/user-attachments/assets/b8fe3f56-a170-4004-891f-afc11f1997a1"> <p align="right"> <img src="https://github.com/user-attachments/assets/6613e7a7-92e3-470f-9151-4f59b2df3343">
+<p align="center"><img src="https://github.com/user-attachments/assets/b8fe3f56-a170-4004-891f-afc11f1997a1"> <p align="right"><img src="https://github.com/user-attachments/assets/6613e7a7-92e3-470f-9151-4f59b2df3343">
