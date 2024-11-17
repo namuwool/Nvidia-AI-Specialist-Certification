@@ -89,4 +89,4 @@ After completing the labeling, click the "GT SAVE AS" button, select a folder, a
 
 Check extracted labeling
 
-<p align="center"><img src="https://github.com/user-attachments/assets/e3ef4f91-ee92-4ce6-95c4-bca1b751a5e6">
+<p align="center"><img src="https://github.com/user-attachments/assets/e3ef4f91-ee92-4ce6-95c4-bca1b751a5e6" width="600"/>
