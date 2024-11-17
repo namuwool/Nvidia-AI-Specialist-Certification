@@ -54,6 +54,7 @@ https://youtube.com/shorts/HcVqAKxXZP4?si=uQYc4MzfyEvo8hgA
 1. **images extraction**
 
 **Use Adobe Express to resize the video to 640 x 640.**
+---
 
 https://new.express.adobe.com/tools/resize-video?url=%2Fkr%2Fexpress%2Ffeature%2Fvideo%2Fresize&placement=columns-1&locale=ko-KR&contentRegion=kr&%24web_only=true&_branch_match_id=1383263338796486643&_branch_referrer=H4sIAAAAAAAAAw2JsQrCMBgGn8ZsbVFwUAgOgiguWhDcJEm%2FtiFp%2FvAnteLgs5vl7uDGnGPaN43qSCNFxS5SytUCXasYa2%2BDa9A8d4%2Fb3ejL9qwPM3u52pwcF%2BATGSmV6qHyzCj1th2ouAz7hYheGUwIWRry8xRStRaejPKQjqprKwyFXHaLwVKQjsWP0YPZhuGlmZYElseRacIfzIRSeqwAAAA%3D
 
@@ -65,6 +66,7 @@ https://new.express.adobe.com/tools/resize-video?url=%2Fkr%2Fexpress%2Ffeature%2
 2. **DarkLabel (labels)**
 
 • **Go to the DarkLabel.exe file**
+---
 
 ![image (3)](https://github.com/user-attachments/assets/9f0e739e-a6e7-4d65-9bf4-1f8239e4f7b5)
 
@@ -79,3 +81,6 @@ Ensure that it is set to "screw," then set it to "box + Label," uncheck "labeled
 
 
 <p align="center"><img src="https://github.com/user-attachments/assets/507ab6d1-df98-48ba-96bb-0134ac8658a0"> <img src="https://github.com/user-attachments/assets/ff9bfd3a-e3e7-407f-af57-c998ddea279a"width="500" height="600"/>
+
+After completing the labeling, click the "GT SAVE AS" button, select a folder, and save. You can then confirm that the labels are saved in a .txt file format.
+
