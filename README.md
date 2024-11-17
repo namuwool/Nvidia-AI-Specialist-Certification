@@ -51,7 +51,7 @@ https://youtube.com/shorts/HcVqAKxXZP4?si=uQYc4MzfyEvo8hgA
 [ Project Progress ]
 ---
 
-1. **images extraction**
+1. images extraction
 ---
 **Use Adobe Express to resize the video to 640 x 640.**
 
@@ -63,7 +63,7 @@ https://new.express.adobe.com/tools/resize-video?url=%2Fkr%2Fexpress%2Ffeature%2
 <p align="center"><img src="https://github.com/user-attachments/assets/83fc166f-b2db-4931-a947-735178194483" width="400" height="450"/> <img src="https://github.com/user-attachments/assets/c5eda0d6-8e9f-4c9c-9df7-28410481d415" width="400" height="450"/> 
 
 
-2. **DarkLabel (labels)**
+2. DarkLabel (labels)
 ---
 • **Go to the DarkLabel.exe file**
 
@@ -91,6 +91,6 @@ Check extracted labeling
 
 <p align="center"><img src="https://github.com/user-attachments/assets/e3ef4f91-ee92-4ce6-95c4-bca1b751a5e6" width="600"/>
 
-O3. Learning data with yolov5 colab 
+3. Learning data with yolov5 colab
 ---
 • Link your Google Drive to Colab
