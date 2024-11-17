@@ -94,3 +94,6 @@ Check extracted labeling
 3. Learning data with yolov5 colab
 ---
 • Link your Google Drive to Colab
+
+![image (12)](https://github.com/user-attachments/assets/fda80d63-e523-4bdc-95eb-b8db5dfdb06d)
+
