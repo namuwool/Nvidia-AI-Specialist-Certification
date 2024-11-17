@@ -51,9 +51,9 @@ https://youtube.com/shorts/HcVqAKxXZP4?si=uQYc4MzfyEvo8hgA
 [ Project Progress ]
 ---
 
-1. images extraction
+1. **images extraction**
 
-Use Adobe Express to resize the video to 640 x 640.
+**Use Adobe Express to resize the video to 640 x 640.**
 
 https://new.express.adobe.com/tools/resize-video?url=%2Fkr%2Fexpress%2Ffeature%2Fvideo%2Fresize&placement=columns-1&locale=ko-KR&contentRegion=kr&%24web_only=true&_branch_match_id=1383263338796486643&_branch_referrer=H4sIAAAAAAAAAw2JsQrCMBgGn8ZsbVFwUAgOgiguWhDcJEm%2FtiFp%2FvAnteLgs5vl7uDGnGPaN43qSCNFxS5SytUCXasYa2%2BDa9A8d4%2Fb3ejL9qwPM3u52pwcF%2BATGSmV6qHyzCj1th2ouAz7hYheGUwIWRry8xRStRaejPKQjqprKwyFXHaLwVKQjsWP0YPZhuGlmZYElseRacIfzIRSeqwAAAA%3D
 
@@ -62,6 +62,6 @@ https://new.express.adobe.com/tools/resize-video?url=%2Fkr%2Fexpress%2Ffeature%2
 <img src="https://github.com/user-attachments/assets/83fc166f-b2db-4931-a947-735178194483" width="400" height="450"/> <img src="https://github.com/user-attachments/assets/c5eda0d6-8e9f-4c9c-9df7-28410481d415" width="400" height="450"/> 
 
 
-1. **DarkLabel (labels)**
+2. **DarkLabel (labels)**
 
 • **Go to the DarkLabel.exe file**
