@@ -44,6 +44,8 @@ https://youtube.com/shorts/VWcLRW8vs0U?si=X9I6Jk7PkDOSeuwt
 https://youtube.com/shorts/HcVqAKxXZP4?si=uQYc4MzfyEvo8hgA
 
 [ Project Progress ]
+---
+
 1. Image extraction
 
 Use Adobe Express to resize the video to 640 x 640.
