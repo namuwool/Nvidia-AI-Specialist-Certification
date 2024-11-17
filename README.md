@@ -59,7 +59,7 @@ https://new.express.adobe.com/tools/resize-video?url=%2Fkr%2Fexpress%2Ffeature%2
 
 ![image](https://github.com/user-attachments/assets/6c5912e6-de3d-438d-b7fa-f093be76cdfc)
 
-<img src="https://github.com/user-attachments/assets/83fc166f-b2db-4931-a947-735178194483" width="400" height="450"/> <img src="https://github.com/user-attachments/assets/c5eda0d6-8e9f-4c9c-9df7-28410481d415" width="400" height="450"/> 
+<p align="center"><img src="https://github.com/user-attachments/assets/83fc166f-b2db-4931-a947-735178194483" width="400" height="450"/> <img src="https://github.com/user-attachments/assets/c5eda0d6-8e9f-4c9c-9df7-28410481d415" width="400" height="450"/> 
 
 
 2. **DarkLabel (labels)**
@@ -68,7 +68,7 @@ https://new.express.adobe.com/tools/resize-video?url=%2Fkr%2Fexpress%2Ffeature%2
 
 ![image (3)](https://github.com/user-attachments/assets/9f0e739e-a6e7-4d65-9bf4-1f8239e4f7b5)
 
-![image (4)](https://github.com/user-attachments/assets/4b26f9fc-6033-42a9-89e3-b291705af324)
+<p align="center">![image (4)](https://github.com/user-attachments/assets/4b26f9fc-6033-42a9-89e3-b291705af324)
 
 
 
