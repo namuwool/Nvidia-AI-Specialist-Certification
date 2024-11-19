@@ -236,4 +236,4 @@ https://youtube.com/shorts/HcVqAKxXZP4?si=uQYc4MzfyEvo8hgA
 **Jetson Nano**
 ---
 
-https://drive.google.com/drive/folders/1BkJG-T9gUsvWa0b9dPSd-n7EE8vIF_GV?usp=sharing
+https://drive.google.com/drive/folders/1hbiOd0EWwjiw67YRu7ccfy6elEpq3nJo?usp=sharing
